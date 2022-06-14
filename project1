@@ -9,7 +9,7 @@ merged_df = pd.merge(songs_df, genres_df, on="artist", how="left")
 #Get Familiar with the Data
 1
 #print(merged_df.shape[0])
-
+2
 #print(merged_df.shape[1])
 #print(merged_df.dtypes)
 3
